@@ -8,7 +8,7 @@ The goal of this project is to extract, process, and understand climate data usi
 ---
 
 ## 👨‍💻 Author
-**Name:** Alan Selvam  
+**Name:** Maria Antony Selvam S  
 
 ---
 
@@ -16,7 +16,7 @@ The goal of this project is to extract, process, and understand climate data usi
 - Python 🐍  
 - Pandas 📊  
 - NumPy 🔢  
-- Jupyter Notebook 📒  
+- Google colab 📒  
 
 ---
 
